@@ -1,0 +1,4 @@
+.idea
+nomeroff-net/*
+.ipynb_checkpoints/*
+dataset/*
